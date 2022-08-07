@@ -10,7 +10,7 @@ docker部署pythonweb环境，实现一个demo（For study use only）
 
 docker-compose config 根据docker-compose.yml解析后的配置信息；
 
-docker-compose build 根据Dockerfile 构建容器环境；
+docker-compose build 根据Dockerfile中的指令来构建容器镜像环境；
 
 docker-compose pull 拉取对应的镜像；
 
